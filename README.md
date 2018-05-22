@@ -1,6 +1,10 @@
-# startup_name
+# Startup Name Generator
 
 A Flutter application that can generate random names for your next startup.
+
+## Screenshots
+
+<img src="screen.png" alt="Startup Name Generator - Screenshot" width="50%" />
 
 ## Getting Started
 
